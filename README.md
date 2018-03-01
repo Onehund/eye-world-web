@@ -1,5 +1,5 @@
 ## eye-world-web
+- 一次创维实习的练习项目，全国首届 TVOS 大赛参赛作品之一
 
-PC
-
-Mobile Devices
+### 项目说明
+- 此文件为项目的PC、手机端页面分支
